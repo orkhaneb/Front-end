@@ -1,0 +1,52 @@
+.nav-logo{
+    width: 100px;
+    display: inline-block;
+
+    img{
+
+        width: 80px;
+        height: 30px;
+
+    }
+
+}
+
+.navbar-nav{
+    padding: 10px 0;
+
+    .nav-link{
+        font-size: 15px;
+        font-weight: 400;
+        font-family: $myfont;
+        color: $txtwhite;
+    }
+    
+       
+    
+
+}
+
+.left-nav{
+
+    i{
+        margin-left: 40px;
+        font-size: 15px;
+        color: $txtwhite;    
+
+        &:hover{
+            color: rgb(177, 173, 173);
+        }
+
+    }
+
+    
+
+}
+
+    
+  
+   
+
+
+   
+

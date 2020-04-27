@@ -1,0 +1,89 @@
+.nav-logo {
+  width: 100px;
+  display: inline-block;
+}
+
+.nav-logo img {
+  width: 80px;
+  height: 30px;
+}
+
+.navbar-nav {
+  padding: 10px 0;
+}
+
+.navbar-nav .nav-link {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  color: #fff;
+}
+
+.left-nav i {
+  margin-left: 40px;
+  font-size: 15px;
+  color: #fff;
+}
+
+.left-nav i:hover {
+  color: #b1adad;
+}
+
+#entry {
+  padding: 230px 0px;
+  background-image: url(../img/hero1.jpg);
+  top: 0;
+  height: 750px;
+}
+
+#entry #entry-img {
+  position: absolute;
+  left: 220px;
+  bottom: 10px;
+  width: 335px;
+}
+
+#entry .entry-text {
+  color: #fff;
+  font-size: 1.8em;
+  line-height: 1.6em;
+}
+
+#entry .btn {
+  position: absolute;
+  top: 50px;
+  right: 450px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  border-radius: 100px;
+  border-color: #425cbb;
+  background-color: #425cbb;
+}
+
+#entry .btn span {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+#entry .list-items {
+  position: absolute;
+  top: 290px;
+  left: 415px;
+}
+
+#entry .list-items li {
+  margin-right: 45px;
+}
+
+#entry .list-items li a i {
+  font-size: 30px;
+  color: #b1adad;
+}
+
+#entry .list-items li a i:hover {
+  content: "";
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
